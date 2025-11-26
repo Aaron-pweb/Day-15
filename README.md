@@ -128,7 +128,7 @@ Admin command:
 
 ---
 
-## 🧱 Core OOP Classes (High-Level Breakdown)
+## Core OOP Classes (High-Level Breakdown)
 
 ### **class MenuItem**
 
